@@ -1,6 +1,10 @@
 # AnimeSpotify
 
-This repository lists every anime song (opening, ending, insert song) available legally on Spotify starting from Summer 2016. Each list is a markdown file with the anime and its songs titles and artists.
+This repository lists every anime song (opening, ending, insert song) available legally on Spotify starting from Summer 2016. 
+
+Each list is a markdown file with the anime and its songs titles and artists.
+
+If you see any missing song or you want to add previous season's song don't hesitate to open an issue (giving me the link)
 
 ## Playlists
 
@@ -24,3 +28,17 @@ This repository lists every anime song (opening, ending, insert song) available 
 | ---------- | ------------ |
 | [Winter 2018](2018/01-winter-2018.md) | https://sptfy.com/1702 |
 | [Spring 2018](2018/02-spring-2018.md) | https://sptfy.com/1703 |
+
+## FAQ 
+
+**Where can I suggest a song missing in one of the playlists?**
+
+Just open an issue and I will add it ASAP!
+
+**Can I suggest songs from seasons which are not listed?**
+
+Of course, that would help me catch up on previous seasons.
+
+**Can I suggest a cover?**
+
+No, I will only add songs from the original singer/group.
