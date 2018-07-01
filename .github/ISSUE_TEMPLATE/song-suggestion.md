@@ -9,4 +9,4 @@ about: Suggest a song to be added to playlists
 **Season** : (Ex: Winter 2018)
 **Title** : (Ex: Kiss of Death) 
 **Singer** :  (Ex: Mika Nakashima)
-**Spotify link** : (Ex : https://open.spotify.com/track/5783FVFtXJMM094CCdHPC5?si=tJiAprVdTGGlF_D93Jthnw)
+**Spotify link** : (Ex : https://open.spotify.com/track/5783FVFtXJMM094CCdHPC5?si=tJiAprVdTGGlF_D93Jthnw )
