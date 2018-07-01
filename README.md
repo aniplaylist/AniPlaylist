@@ -5,7 +5,7 @@ This repository lists every anime song (opening, ending, insert song) available 
 ## Playlists
 
 * [Summer 2016](2016/03-summer-2016.md)
-* [Fall 2016](2016/04-fall-2017.md)
+* [Fall 2016](2016/04-fall-2016.md)
 
 * [Winter 2017](2017/01-winter-2017.md)
 * [Spring 2017](2017/02-spring-2017.md)
