@@ -26,6 +26,7 @@ If you see any missing song or you want to add previous season's song don't hesi
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
+| [Spring 2016](2016/02-spring-2016.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/0f3DlkFQ3xYT6gf1sQnMH0?si=sqly1d9xQL22BtSW0QNQfA) |
 | [Summer 2016](2016/03-summer-2016.md)  | [Spotify](https://sptfy.com/1x0q) |
 | [Fall 2016](2016/04-fall-2016.md) | [Spotify](https://sptfy.com/2n2F) |
 
