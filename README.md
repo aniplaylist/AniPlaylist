@@ -63,7 +63,13 @@ If you see any missing song or you want to add previous season's song don't hesi
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [2005](2015/04-fall-2005.md)  | [Spotify](https://sptfy.com/174M) |
+| [2005](2005/2005.md)  | [Spotify](https://sptfy.com/174M) |
+
+### 1996
+
+| Song list  | Spotify link |
+| ---------- | ------------ |
+| [1996](1996/1996.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/43FpZxAFWLRryrq6ACnu7d?si=1gjWHCqYQvGLUdmvy5n_hQ) |
 
 
 ## FAQ 
