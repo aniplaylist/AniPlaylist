@@ -33,31 +33,31 @@ If you see any missing song or you want to add previous season's song don't hesi
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [Summer 2014](2014/03-summer-2014.md)  | [Spotify](https://sptfy.com/174O) |
+| [2014](2014/2014.md)  | [Spotify](https://sptfy.com/174O) |
 
 ### 2009
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [Spring 2009](2009/02-spring-2009.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/5AKRPdH6o47d268v7KAlAO?si=NE1hKcczTmuptSpHcFbIaw) |
+| [2009](2009/2009.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/5AKRPdH6o47d268v7KAlAO?si=NE1hKcczTmuptSpHcFbIaw) |
 
 ### 2007
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [Fall 2007](2007/04-fall-2007.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/40NmtYQuqz21GlFOCBGnhR?si=ESAvRfjGTwuYCL-TreR1Cg) |
+| [2007](2007/2007.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/40NmtYQuqz21GlFOCBGnhR?si=ESAvRfjGTwuYCL-TreR1Cg) |
 
 ### 2006
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [Winter 2006](2006/01-winter-2006.md)  | [Spotify](https://sptfy.com/174N) |
+| [2006](2006/2006.md)  | [Spotify](https://sptfy.com/174N) |
 
 ### 2005
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [Fall 2005](2015/04-fall-2005.md)  | [Spotify](https://sptfy.com/174M) |
+| [2005](2015/04-fall-2005.md)  | [Spotify](https://sptfy.com/174M) |
 
 
 ## FAQ 
