@@ -66,6 +66,12 @@ If you see any missing song or you want to add previous season's song don't hesi
 | ---------- | ------------ |
 | [2005](2005/2005.md)  | [Spotify](https://sptfy.com/174M) |
 
+### 2004
+
+| Song list  | Spotify link |
+| ---------- | ------------ |
+| [2004](2004/2004.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/1IgTDKX3WqZFJavret9PRD?si=omQ5Csp9Sj6ZrQEAFMvIjA) |
+
 ### 1996
 
 | Song list  | Spotify link |
