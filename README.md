@@ -42,6 +42,13 @@ If you see any missing song or you want to add previous season's song don't hesi
 | ---------- | ------------ |
 | [2014](2014/2014.md)  | [Spotify](https://sptfy.com/174O) |
 
+### 2010
+
+| Song list  | Spotify link |
+| ---------- | ------------ |
+| [2010](2010/2010.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3lWKoqSb4yyj6xYeDoyAUn?si=PQxVvgDDTKazaWyLArcmxQ) |
+
+
 ### 2009
 
 | Song list  | Spotify link |
