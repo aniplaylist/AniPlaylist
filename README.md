@@ -29,6 +29,12 @@ If you see any missing song or you want to add previous season's song don't hesi
 | [Summer 2016](2016/03-summer-2016.md)  | https://sptfy.com/1x0q |
 | [Fall 2016](2016/04-fall-2016.md) | https://sptfy.com/2n2F |
 
+### 2006
+
+| Song list  | Spotify link |
+| ---------- | ------------ |
+| [Winter 2006](2006/01-winter-2006.md)  | https://sptfy.com/174N |
+
 ### 2005
 
 | Song list  | Spotify link |
