@@ -42,6 +42,12 @@ If you see any missing song or you want to add previous season's song don't hesi
 | [Spring 2009](2009/02-spring-2009.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/5AKRPdH6o47d268v7KAlAO?si=NE1hKcczTmuptSpHcFbIaw)
  |
 
+### 2007
+
+| Song list  | Spotify link |
+| ---------- | ------------ |
+| [Fall 2007](2007/04-fall-2007.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/40NmtYQuqz21GlFOCBGnhR?si=ESAvRfjGTwuYCL-TreR1Cg)
+
 ### 2006
 
 | Song list  | Spotify link |
