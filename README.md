@@ -46,7 +46,7 @@ If you see any missing song or you want to add previous season's song don't hesi
 | [2003](2003/2003.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/4CJB7bfYw6EpeY8F5yJvPI?si=c8nXnOU8S1qy3je-qlAbVQ) |
 | [1999](1999/1999.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3wwteFRGNiBEDYYgKLZdQC?si=Nwdv6SYoTWS1tsEDlbe5uw) |
 | [1996](1996/1996.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/43FpZxAFWLRryrq6ACnu7d?si=1gjWHCqYQvGLUdmvy5n_hQ) |
-
+| [1985](1985/1985.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6sYDCCSNTd6og2oLvefJwA?si=hPcDQyvpTpCKsUSPAuzUuA) |
 
 ## FAQ 
 
