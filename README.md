@@ -37,6 +37,7 @@ If you see any missing song or you want to add previous season's song don't hesi
 | ---------- | ------------ |
 | [2015](2015/2015.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6P8tZuYo14YFOIDBEF1cgC?si=cD-kMPExRDyO4gKy3f-X9w) |
 | [2014](2014/2014.md)  | [Spotify](https://sptfy.com/174O) |
+| [2012](2012/2012.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/5l5Cll6B2hI4TKrB7k3ujv?si=jaderfbkSjeaampWbJccFw) |
 | [2010](2010/2010.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3lWKoqSb4yyj6xYeDoyAUn?si=PQxVvgDDTKazaWyLArcmxQ) |
 | [2009](2009/2009.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/5AKRPdH6o47d268v7KAlAO?si=NE1hKcczTmuptSpHcFbIaw) |
 | [2007](2007/2007.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/40NmtYQuqz21GlFOCBGnhR?si=ESAvRfjGTwuYCL-TreR1Cg) |
