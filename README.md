@@ -31,59 +31,18 @@ If you see any missing song or you want to add previous season's song don't hesi
 | [Summer 2016](2016/03-summer-2016.md)  | [Spotify](https://sptfy.com/1x0q) |
 | [Fall 2016](2016/04-fall-2016.md) | [Spotify](https://sptfy.com/2n2F) |
 
-### 2015
+### Previous years
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
 | [2015](2015/2015.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6P8tZuYo14YFOIDBEF1cgC?si=cD-kMPExRDyO4gKy3f-X9w) |
-
-### 2014
-
-| Song list  | Spotify link |
-| ---------- | ------------ |
 | [2014](2014/2014.md)  | [Spotify](https://sptfy.com/174O) |
-
-### 2010
-
-| Song list  | Spotify link |
-| ---------- | ------------ |
 | [2010](2010/2010.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3lWKoqSb4yyj6xYeDoyAUn?si=PQxVvgDDTKazaWyLArcmxQ) |
-
-
-### 2009
-
-| Song list  | Spotify link |
-| ---------- | ------------ |
 | [2009](2009/2009.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/5AKRPdH6o47d268v7KAlAO?si=NE1hKcczTmuptSpHcFbIaw) |
-
-### 2007
-
-| Song list  | Spotify link |
-| ---------- | ------------ |
 | [2007](2007/2007.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/40NmtYQuqz21GlFOCBGnhR?si=ESAvRfjGTwuYCL-TreR1Cg) |
-
-### 2006
-
-| Song list  | Spotify link |
-| ---------- | ------------ |
 | [2006](2006/2006.md)  | [Spotify](https://sptfy.com/174N) |
-
-### 2005
-
-| Song list  | Spotify link |
-| ---------- | ------------ |
 | [2005](2005/2005.md)  | [Spotify](https://sptfy.com/174M) |
-
-### 2004
-
-| Song list  | Spotify link |
-| ---------- | ------------ |
 | [2004](2004/2004.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/1IgTDKX3WqZFJavret9PRD?si=omQ5Csp9Sj6ZrQEAFMvIjA) |
-
-### 1996
-
-| Song list  | Spotify link |
-| ---------- | ------------ |
 | [1996](1996/1996.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/43FpZxAFWLRryrq6ACnu7d?si=1gjWHCqYQvGLUdmvy5n_hQ) |
 
 
