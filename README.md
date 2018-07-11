@@ -11,25 +11,25 @@ If you see any missing song or you want to add previous season's song don't hesi
 ### 2018
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [Winter 2018](2018/01-winter-2018.md) | [Spotify](https://sptfy.com/1702) |
 | [Spring 2018](2018/02-spring-2018.md) | [Spotify](https://sptfy.com/1703) |
+| [Winter 2018](2018/01-winter-2018.md) | [Spotify](https://sptfy.com/1702) |
 
 ### 2017
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [Winter 2017](2017/01-winter-2017.md) | [Spotify](https://sptfy.com/1X1M) | 
-| [Spring 2017](2017/02-spring-2017.md) | [Spotify](https://sptfy.com/1x0T) | 
-| [Summer 2017](2017/03-summer-2017.md) | [Spotify](https://sptfy.com/1700) | 
 | [Fall 2017](2017/04-fall-2017.md) | [Spotify](https://sptfy.com/1701) | 
+| [Summer 2017](2017/03-summer-2017.md) | [Spotify](https://sptfy.com/1700) | 
+| [Spring 2017](2017/02-spring-2017.md) | [Spotify](https://sptfy.com/1x0T) | 
+| [Winter 2017](2017/01-winter-2017.md) | [Spotify](https://sptfy.com/1X1M) | 
 
 ### 2016
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
-| [Winter 2016](2016/01-winter-2016.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/5BitUwdvLSUkao8ebAccer?si=-9Z_7J6gSd2umTeC4oVE1g) |
-| [Spring 2016](2016/02-spring-2016.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/0f3DlkFQ3xYT6gf1sQnMH0?si=sqly1d9xQL22BtSW0QNQfA) |
-| [Summer 2016](2016/03-summer-2016.md)  | [Spotify](https://sptfy.com/1x0q) |
 | [Fall 2016](2016/04-fall-2016.md) | [Spotify](https://sptfy.com/2n2F) |
+| [Summer 2016](2016/03-summer-2016.md)  | [Spotify](https://sptfy.com/1x0q) |
+| [Spring 2016](2016/02-spring-2016.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/0f3DlkFQ3xYT6gf1sQnMH0?si=sqly1d9xQL22BtSW0QNQfA) |
+| [Winter 2016](2016/01-winter-2016.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/5BitUwdvLSUkao8ebAccer?si=-9Z_7J6gSd2umTeC4oVE1g) |
 
 ### Previous years
 
