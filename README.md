@@ -65,3 +65,8 @@ Of course, that would help me catch up on previous seasons.
 **Can I suggest a cover?**
 
 No, I will only add songs from the original singer/group.
+
+**Why do some of the songs listed are not appearing in my playlist?**
+
+Some songs are region locked by the rights holder. I added a "**[REGION LOCKED]**" tag to those songs.
+If a song is region locked for you and not tagged, please open an issue to tell me.
