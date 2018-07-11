@@ -11,6 +11,7 @@ If you see any missing song or you want to add previous season's song don't hesi
 ### 2018
 | Song list  | Spotify link |
 | ---------- | ------------ |
+| [Summer 2018](2018/03-summer-2018.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3NNKsuuPHMF2HGZsT10M6y?si=eSWO31cTS_a4tanUqZq6sg) |
 | [Spring 2018](2018/02-spring-2018.md) | [Spotify](https://sptfy.com/1703) |
 | [Winter 2018](2018/01-winter-2018.md) | [Spotify](https://sptfy.com/1702) |
 
