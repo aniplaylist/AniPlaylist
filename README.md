@@ -51,7 +51,7 @@ If you see any missing song or you want to add previous season's song don't hesi
 | [2003](2003/2003.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/4CJB7bfYw6EpeY8F5yJvPI) |
 | [2002](2002/2002.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6dEJ2qGx3vVfUFwfUS5kyk) |
 | [2001](2001/2001.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/2rv2ND7fCOjv8X6Dx6bWaQ) |
-| 2000 | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/61eSQoHdiwe46DHBxyY8cM?si=z3CtU7x3SJOtqlu5LsAFIw) |
+| [2000](2000/2000.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/61eSQoHdiwe46DHBxyY8cM) |
 | [1990-1999](1990-1999/1990-1999.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3wwteFRGNiBEDYYgKLZdQC) |
 | [1980-1989](1980-1989/1980-1989.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6sYDCCSNTd6og2oLvefJwA) |
 
