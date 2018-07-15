@@ -53,6 +53,13 @@ If you see any missing song or you want to add previous season's song don't hesi
 | [1990-1999](1990-1999/1990-1999.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3wwteFRGNiBEDYYgKLZdQC) |
 | [1980-1989](1980-1989/1980-1989.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6sYDCCSNTd6og2oLvefJwA) |
 
+### Every Songs
+
+| Playlist  | Spotify link |
+| ---------- | ------------ |
+| Full Anime Playlist | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/0Bzo4KDACIspridcjsNXkA?si=V92SEbfxT6iwCVy3WOQijg
+) |
+
 ## FAQ 
 
 **Where can I suggest a song missing in one of the playlists?**
