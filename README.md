@@ -1,4 +1,4 @@
-# AnimeSpotify
+# AniPlaylist
 
 This repository lists every anime song (opening, ending, insert song) available legally on Spotify. 
 
