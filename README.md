@@ -63,19 +63,23 @@ If you see any missing song or you want to add previous season's song don't hesi
 
 ## FAQ 
 
+**How can I stay up to date with every new song added to Spotify?**
+
+Follow us on [Twitter](https://twitter.com/AniPlaylist), we will tweet for every new song added!
+
 **Where can I suggest a song missing in one of the playlists?**
 
-Just open an issue and I will add it ASAP!
+Just open an issue and we will add it ASAP!
 
 **Can I suggest songs from seasons which are not listed?**
 
-Of course, that would help me catch up on previous seasons.
+Of course, that would help us catch up on previous seasons.
 
 **Can I suggest a cover?**
 
-No, I will only add songs from the original singer/group.
+No, we will only add songs from the original singer/group.
 
 **Why do some of the songs listed are not appearing in my playlist?**
 
-Some songs are region locked by the rights holder. I added a "**[REGION LOCKED]**" tag to those songs.
-If a song is region locked for you and not tagged, please open an issue to tell me.
+Some songs are region locked by the rights holder. We added a "**[REGION LOCKED]**" tag to those songs.
+If a song is region locked for you and not tagged, please open an issue to tell us.
