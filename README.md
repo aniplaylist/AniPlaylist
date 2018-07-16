@@ -65,7 +65,7 @@ If you see any missing song or you want to add previous season's song don't hesi
 
 **How can I stay up to date with every new song added to Spotify?**
 
-Follow us on [Twitter](https://twitter.com/AniPlaylist), we will tweet for every new song added!
+Follow us on [Twitter](https://twitter.com/AniPlaylist), we will make a tweet for every new song added!
 
 **Where can I suggest a song missing in one of the playlists?**
 
