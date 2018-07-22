@@ -5,6 +5,8 @@
 ## Songs
 
 **Senki Zesshou Symphogear GX**
+* OP : "Exterminate" by Nana Mizuki
+* ED1 : "Glorious Break" by Nana Mizuki
 * IN1 : "Genkai Toppa G-Beat" by Aoi Yuuki
 * IN1 : "Seiten Galaxy Cross" by Nana Mizuki & Yoko Hikasa
 * IN2 : "Trust Heart" by Ayahi Takagaki
