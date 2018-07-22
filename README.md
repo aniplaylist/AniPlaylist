@@ -8,6 +8,13 @@ If you see any missing song or you want to add previous season's song don't hesi
 
 ## Playlists
 
+### Every Songs
+
+| Playlist  | Spotify link |
+| ---------- | ------------ |
+| Full Anime Playlist | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/0Bzo4KDACIspridcjsNXkA?si=V92SEbfxT6iwCVy3WOQijg) |
+
+
 ### 2018
 | Song list  | Spotify link |
 | ---------- | ------------ |
@@ -53,13 +60,14 @@ If you see any missing song or you want to add previous season's song don't hesi
 | [2001](2001/2001.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/2rv2ND7fCOjv8X6Dx6bWaQ) |
 | [2000](2000/2000.md)  | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/61eSQoHdiwe46DHBxyY8cM) |
 | [1990-1999](1990-1999/1990-1999.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3wwteFRGNiBEDYYgKLZdQC) |
-| [1980-1989](1980-1989/1980-1989.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6sYDCCSNTd6og2oLvefJwA) |
+| [1970-1989](1970-1989/1970-1989.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6sYDCCSNTd6og2oLvefJwA) |
 
-### Every Songs
+### Other Playlists
 
-| Playlist  | Spotify link |
+| Song list  | Spotify link |
 | ---------- | ------------ |
-| Full Anime Playlist | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/0Bzo4KDACIspridcjsNXkA?si=V92SEbfxT6iwCVy3WOQijg) |
+| [Senki Zesshou Symphogear](anime/symphogear.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/2zpANzeHf3b9UPwevqhRGD) |
+
 
 ## FAQ 
 
