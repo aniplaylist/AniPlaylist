@@ -62,7 +62,14 @@ If you see any missing song or you want to add previous season's song don't hesi
 | [1990-1999](1990-1999/1990-1999.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/3wwteFRGNiBEDYYgKLZdQC) |
 | [1970-1989](1970-1989/1970-1989.md) | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/6sYDCCSNTd6og2oLvefJwA) |
 
+### Official Spotify Playlists
+
+| Song list  | Spotify link |
+| ---------- | ------------ |
+| 進撃の巨人 -Attack on Titan-  | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWXkVfVmXHa7l?si=V-UF3WtCQDy6Et7yYUYoJA) |
+
 ### Other Playlists
+
 
 | Song list  | Spotify link |
 | ---------- | ------------ |
