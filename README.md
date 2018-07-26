@@ -12,7 +12,7 @@ If you see any missing song or you want to add previous season's song don't hesi
 
 | Playlist  | Spotify link |
 | ---------- | ------------ |
-| Full Anime Playlist | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/0Bzo4KDACIspridcjsNXkA?si=V92SEbfxT6iwCVy3WOQijg) |
+| Anime Song | [Spotify](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h/playlist/0Bzo4KDACIspridcjsNXkA?si=V92SEbfxT6iwCVy3WOQijg) |
 
 
 ### 2018
