@@ -1,3 +1,11 @@
+# REPOSITORY NOT MAINTAINED
+
+This repository will not be maintained anymore because I'm currently working on a better tool to list every anime songs on Spotify. 
+The [twitter account](https://twitter.com/AniPlaylist) and all [Spotify playlists](https://open.spotify.com/user/fz230568w0ccmom2dg3zvxq1h?si=ivvF9IUkTdeZkGtk2Y1F3w) are still updated so don't hesitate to follow them until I'm done with the new tool! 
+
+Stay tuned :)
+
+
 # AniPlaylist
 
 This repository lists every anime song (opening, ending, insert song) available legally on Spotify. 
